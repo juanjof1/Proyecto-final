@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.banner{
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.titulo{
+    text-align: center;
+    margin: 50px;
+    padding: 14px 14px 14px 14px;
+    font-weight: bold;
+}
+
+.consolas{
+    margin: 20px;
+    padding: 14px 14px 14px;
+    
+}
+
+.Games{
+    margin: 20px;
+    padding: 14px 14px 14px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-contanier{
+    margin: 20px;
+    padding: 14px 14px 14px;
+}
+
+.container{
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+h2{
+    padding: 20px;
+    font-weight: bold;
+    margin: auto;
+}
+
+.parrafo{
+    font-size: 16px;
+    margin: auto;
+    padding: 5px;
+}
+
+button{
+   border: 5px solid black;
+   color: aliceblue;
+   background-color: black;
+   font-size: 12rem;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+}
+
+.movil{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.movil{
+   display: flex;
+   justify-content: space-between;
+}
+
+.title{
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+} 
+
+ /* @media screen and  (max-width: 1600px){
+     .contanier-box{
+        width: 200px;
+        display: block;
+    }
+     
+  }
+
+  @media screen and  (max-width: 1600px){
+    .contanier-games{
+        width: 200px;
+        display: block;
+    }
+    
+ }
+
+ @media screen and  (max-width: 1600px){
+    .main-contanier{
+        width: 200px;
+        display: block;
+    }
+ }*/
+
+      
+  
+
+   
+      
+   
+  
+     
+      
+
+
+  
+
